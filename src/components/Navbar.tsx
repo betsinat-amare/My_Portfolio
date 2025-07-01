@@ -51,7 +51,7 @@ const Navbar: React.FC = () => {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
         >
-          <span className="gradient-text">Portfolio</span>
+          <span className="gradient-text" style={{ fontWeight: 700, fontSize: '1.5rem', letterSpacing: '0.03em' }}>Betsinat's</span>
         </motion.div>
 
         <div className="nav-menu">
