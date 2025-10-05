@@ -92,7 +92,7 @@ const Hero: React.FC = () => {
                 Get In Touch
               </motion.button>
               <a
-                href="/cv.pdf"
+                href="/Betsinat Amare Resume.pdf"
                 className="btn btn-secondary"
                 download
                 target="_blank"
