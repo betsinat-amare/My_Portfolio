@@ -130,7 +130,7 @@ const Skills: React.FC = () => {
             <div style={{ color: '#f1f5f9', fontWeight: 500, fontSize: '1.1rem' }}>BSc in Software Engineering</div>
             <div style={{ color: '#a1a1aa', fontSize: '1.05rem', marginBottom: 12 }}>2023–Present</div>
             <div style={{ color: '#f1f5f9', fontSize: '1.05rem' }}>
-              Third-year student focused on building practical skills in software development, with a strong interest in modern technologies and real-world problem solving.
+              Astudent focused on building practical skills in software development, with a strong interest in modern technologies and real-world problem solving.
             </div>
 
           </div>
@@ -153,8 +153,7 @@ const Skills: React.FC = () => {
             <span role="img" aria-label="books">📚</span> Self Paced Current Courses
             </h3>
             <ul style={{ color: '#f1f5f9', fontSize: '1.05rem', margin: 0, paddingLeft: 18 }}>
-              <li>iOS App Development – <em>Udemy</em><br />
-              </li>
+        
               <li>Artificial Intelligence with Python free online course offered by– <em>Harvard University (CS50)</em><br />
               </li>
             </ul>
@@ -180,6 +179,15 @@ const Skills: React.FC = () => {
               <div style={{ color: '#f1f5f9', fontWeight: 700, fontSize: '1.35rem', marginBottom: 8 }}>SkillBridge</div>
               <div style={{ color: '#a1a1aa', fontSize: '1.13rem', marginBottom: 10 }}>Data Structures & Algorithms Bootcamp</div>
               <div style={{ color: '#6366f1', fontSize: '1.08rem' }}>Issued by SkillBridge, 2025</div>
+            </div>
+          </div>
+          {/* Oracle Certificate Card */}
+          <div style={{ background: '#18181b', borderRadius: 24, boxShadow: '0 6px 32px rgba(0,0,0,0.15)', padding: '2.5rem', maxWidth: 700, minWidth: 320, width: '100%', display: 'flex', flexDirection: 'row', alignItems: 'center', gap: '2.5rem', flex: 1 }}>
+            <img src="/cert-skillbridge.jpg" alt="SkillBridge Certificate" style={{ width: 220, minWidth: 160, borderRadius: 16, marginBottom: 0, boxShadow: '0 2px 12px rgba(99,102,241,0.10)' }} />
+            <div style={{ flex: 1, minWidth: 180 }}>
+              <div style={{ color: '#f1f5f9', fontWeight: 700, fontSize: '1.35rem', marginBottom: 8 }}>Oracle University</div>
+              <div style={{ color: '#a1a1aa', fontSize: '1.13rem', marginBottom: 10 }}>AI Foundations Associate Bootcamp</div>
+              <div style={{ color: '#6366f1', fontSize: '1.08rem' }}>Issued by Oracle University, 2025</div>
             </div>
           </div>
         </div>
