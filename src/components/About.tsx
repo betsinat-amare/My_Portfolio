@@ -31,7 +31,8 @@ const About: React.FC = () => {
               I specialize in building scalable, user-centric applications using modern web technologies.
             </p>
             <p>
-              Beyond development, I actively sharpen my problem-solving skills through Data Structures and Algorithms (DSA), 
+              Beyond development, I actively sharpen my problem-solving skills through Data Structures and Algorithms (DSA), solved over 300 problems on LeetCode.
+              I enjoy
               regularly tackling coding challenges to improve my analytical thinking and coding efficiency. I'm passionate 
               about writing clean, maintainable code and continuously exploring new tools, frameworks, and best practices.
             </p>
