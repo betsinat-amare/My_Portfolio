@@ -10,7 +10,7 @@ const Projects: React.FC = () => {
       description: 'A Flutter application for university students to add and drop courses, featuring a backend and modern UI.',
       technologies: ['Flutter', 'Dart', 'Node.js', 'TypeScript'],
       image: '/course.png',
-      liveUrl: '#',
+      liveUrl: '../../public/course add and drop demo.mp4',
       githubUrl: 'https://github.com/betsinat-amare/Course_add_and_drop_app_flutter'
     },
     {
@@ -28,7 +28,7 @@ const Projects: React.FC = () => {
       description: 'A simulator for modeling and visualizing building evacuations, built with JavaScript and TypeScript.',
       technologies: ['JavaScript', 'TypeScript'],
       image: '/graphics.png',
-      liveUrl: '#',
+      liveUrl: 'https://drive.google.com/file/d/1TKdwQs_QClIHpVaQaIU9GltheYjI09hA/view?usp=drive_link',
       githubUrl: 'https://github.com/betsinat-amare/Building_Evacuation_Simulator'
     },
     {
