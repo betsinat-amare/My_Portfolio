@@ -10,7 +10,7 @@ const Projects: React.FC = () => {
       description: 'A Flutter application for university students to add and drop courses, featuring a backend and modern UI.',
       technologies: ['Flutter', 'Dart', 'Node.js', 'TypeScript'],
       image: '/course.png',
-      liveUrl: '../../public/course add and drop demo.mp4',
+      liveUrl: 'https://drive.google.com/file/d/1gTLUtP6HIVWyH1fWAqfXzL2UzFzFUuD4/view?usp=drive_link',
       githubUrl: 'https://github.com/betsinat-amare/Course_add_and_drop_app_flutter'
     },
     {
